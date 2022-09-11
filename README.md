@@ -7,7 +7,7 @@ Backend web developer
 I have been coding for about 4+ years now and I have found a real passion for backend development with python (Django, Flask, FastAPI) and JavaScript (Express JS)
 
 * 🌍  I'm based in Nigeria
-* * ✉️  You can contact me at [daviesnzan@gmail.com](mailto:daviesnzan@gmail.com)
+* ✉️  You can contact me at [daviesnzan@gmail.com](mailto:daviesnzan@gmail.com)
 * 🧠  I'm learning C#
 ### Skills
 
